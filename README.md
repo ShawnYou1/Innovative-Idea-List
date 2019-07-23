@@ -12,5 +12,5 @@ This repository was created to let you know some innovative idea.
 1. **[Buffer](#1-buffer)**
 
 ---
-## Buffer
+## 1. Buffer
 Build your audience and grow your brand on social media.
