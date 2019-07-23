@@ -1,1 +1,5 @@
-<h1 style="marign: 20px;text-align: center;">Innovative Stuff List</h1>
+<h1 align="center">
+<br>
+Innovative Stuff List
+<br><br>
+</h1>
